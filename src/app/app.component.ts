@@ -6,5 +6,10 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
+  nomes: String[]
+
+  constructor(){
+    this.nomes = ["Fulano", "Beltrano", "Ciclano"]
+  }
   title = 'projeto1';
 }
