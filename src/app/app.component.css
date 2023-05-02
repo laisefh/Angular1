@@ -2,3 +2,10 @@ h1{
   color:crimson;
   font-size: 30px;
 }
+.flex-container {
+  display: flex;
+}
+.flex-item {
+  background-color: coral;
+  font-size: 30px;
+}
