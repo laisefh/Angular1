@@ -1,0 +1,11 @@
+h5{
+  padding-right: 50px;
+  padding-left: 50px;
+  font-size: 20px;
+}
+label, textarea, input, button{
+  padding-left: 10px;
+  margin: auto;
+  display: block;
+  margin: 20px;
+}
